@@ -14,7 +14,7 @@
     
     @include('layouts.components.navbar')
 
-    <div class="wrapper mt-4">
+    <div class="wrapper">
         @yield('section')
     </div>
 

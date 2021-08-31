@@ -7,16 +7,16 @@
       <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <small><a class="nav-link active" href="#">Beranda</a></small>
+            <small><a class="nav-link" href="/">Beranda</a></small>
           </li>
           <li class="nav-item">
-            <small><a class="nav-link" href="#">Tentang Kami</a></small>
+            <small><a class="nav-link" href="/tentang-kami">Tentang Kami</a></small>
           </li>
           <li class="nav-item">
-            <small><a class="nav-link" href="#">Program Kerja</a></small>
+            <small><a class="nav-link" href="/program-kerja">Program Kerja</a></small>
           </li>
           <li class="nav-item">
-            <small><a class="nav-link" href="#">Galery</a></small>
+            <small><a class="nav-link" href="/galeri">Galery</a></small>
           </li>
         </ul>
       </div>

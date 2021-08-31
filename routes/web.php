@@ -19,7 +19,7 @@ Route::get('/', function () {
 Route::get('/tentang-kami', function () {
     return view('about-me');
 });
-Route::get('/progrma-kerja', function () {
+Route::get('/program-kerja', function () {
     return view('progja');
 });
 Route::get('/galeri', function () {
